@@ -55,7 +55,7 @@ Autoencoder的概念是將高維的特徵，轉換到一個能代表該特徵特
 ### 實驗結果
 有興趣的可以去看stock_prediction的Notebook。
 
-預測準確度比較(我們這邊單純以隔天上漲為1和下跌為-1，針對模型沒看過的testing data進行Accuracy的比較)
+預測準確度比較(單純以隔天上漲為1和下跌為-1，針對模型沒看過的testing data進行Accuracy的比較)
 ![](https://i.imgur.com/K8XH9FI.png)
 
 ### 結論
